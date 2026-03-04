@@ -52,4 +52,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" alt="Streamlit" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 </p>
-<br>
