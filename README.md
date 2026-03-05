@@ -6,9 +6,9 @@
 
 ## 🎓 Education
 - MSc in Data Science and Engineering at Politecnico di Torino
+- Honour Program UROP during MSc
 - BSc in Computer Engineering (Ingegneria Informatica) at Politecnico di Torino, graduated with Laude
 - Honour Intraprendenti Program during BSc
-- Honour Program UROP during MSc
 
 ## 🧐 Interests
 - Artificial Intelligence (AI)
@@ -25,6 +25,9 @@
 - RAG System
 - Prompt Engineering
 - Innovation Management
+- Big Data
+- Database (SQL, Data Warehouse, NoSQL, MongoDB)
+- Data Visualization
 
 ## 🚀 Languages and Tools I use
 <p align="center"> 
